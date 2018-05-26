@@ -78,6 +78,9 @@ body{
 .boldcls{
 	font-weight: 600;
 }
+.dere{
+	float: right;
+}
 /*HEADER*/
 header{
 	width: 100%;
@@ -181,15 +184,16 @@ ul, li{
 .iconLo{
 	text-align: center;
 }
-.bgimage01{
-	background: url('../img/03_bg.png') 0 0 no-repeat;
-	background-size: cover;
-	height: auto;
-	position: relative;
-	text-align: center;
-	padding: 20px;
-    margin: 60px  0 0 0;
+.bgimage01 {
+    background: url(../img/03_bg.png) 0 0 no-repeat;
+    background-size: cover;
+    height: auto;
+    position: relative;
+    text-align: center;
+    padding: 30px;
+    margin: 40px 0 0 0;
 }
+
 /*SECTiON03*/
 
 .sect03{
@@ -221,10 +225,79 @@ ul, li{
 	height: 250px;
 	    margin: 0 auto;
 }
+.contSlider{
+    width: 320px;
+    margin: 0 auto;
+}
 
 
+/*SECTiON06*/
 
+.sect06{
+	background:#E6E6E6;
+	background-size: cover;
+	width:100%;
+	height: auto;
+	position: relative;
+}
+.contTitu06{
+	height: auto;
+	position: relative;
+	text-align: center;
+	padding: 20px 0;
+    margin: 70px 0 10px 0;
+}
+.contSlider2{
+    margin: 0 auto;
+}
+.contSliderImg{
+	background: #fff;
+	width: 100%;
+	height: auto;
+	padding: 20px;
+}
+.imgPrdo{
+	width: 70%;
+	margin: 0 auto;
+}
+.contSilderGnr{
 
+}
+.arrow{
+	width: 30px;
+    margin-top: 50px;
+}
+.carousel-control {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: auto;
+    font-size: 0;
+    color: #fff;
+    text-align: center;
+    text-shadow: none;
+    background-color: transparent;
+    filter: alpha(opacity=50);
+    opacity: 1;
+}
+.carousel-control.left {
+    background-image: none;
+    background-image: none;
+    background-image: none;
+    background-repeat: no-repeat;
+    filter: none;
+}
+.carousel-control.right {
+    background-image: none;
+    background-image: none;
+    background-image: none;
+    background-repeat: no-repeat;
+    filter: none;
+}
+.slideHei{
+	height: 200px;
+}
 /*--------------------------------*/
 
 
