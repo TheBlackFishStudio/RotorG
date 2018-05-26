@@ -15,6 +15,9 @@ body{
 .h1, h1 {
     font-size: 34px;
 }
+.h4, h4 {
+    line-height: 24px;
+}
 
 .sinNada{
 	margin: 0;
@@ -28,6 +31,9 @@ body{
 }
 .gris{
 	color: #727272;
+}
+.negro{
+	color:#000;
 }
 .big{
 	display: block !important;
@@ -68,6 +74,9 @@ body{
 }
 .guia{
 	border: solid 1px red;
+}
+.boldcls{
+	font-weight: 600;
 }
 /*HEADER*/
 header{
@@ -164,6 +173,17 @@ ul, li{
 }
 .contTitu02{
 	background: url() 0 0 no-repeat;
+	background-size: cover;
+	height: auto;
+	position: relative;
+	text-align: center;
+	padding: 20px;
+}
+.iconLo{
+	text-align: center;
+}
+.bgimage01{
+	background: url('../img/03_bg.png') 0 0 no-repeat;
 	background-size: cover;
 	height: auto;
 	position: relative;
