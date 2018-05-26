@@ -187,3 +187,26 @@ TECNOLOG�A
 EQUIPOS
 PARTNERS
 CONTACTO
+
+SVG
+FLECHA IZQ
+<svg viewBox="0 0 35 65">
+<style type="text/css">
+	.st0{fill:#0098D9;}
+</style>
+<polygon class="st0" points="29.9,64.3 1,33.4 29.9,0.7 34,4.3 8.4,33.3 33.9,60.5 "/>
+</svg>
+
+FLECHA DER.
+<svg viewBox="0 0 35 65">
+<style type="text/css">
+	.st0{fill:#0098D9;}
+</style>
+<polygon class="st0" points="5.1,0.7 34,31.6 5.1,64.3 1,60.7 26.6,31.7 1.1,4.5 "/>
+</svg>
+
+3. La mezcla entra en la manguera mediante un distribuidor (rotor).
+4. La mezcla es transportada mediante aire a presión (flujo diluido) hasta una boquilla o pistola especial.
+Esta boquilla va equipada con un distribuidor múltiple perforado, a través del cual, se pulveriza el agua
+a presión, que se mezcla con el conjunto cemento / áridos.
+5. La mezcla ya húmeda se proyecta desde la boquilla sobre la superficie soporte que debe proyectarse.
