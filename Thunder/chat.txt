@@ -1,0 +1,15 @@
+@echi off
+color 0a
+título Messenger Chat
+echo Hola, Bienvenido al programa de chat!
+echo.
+Set /p username = ingrese su nombre:
+echo % username % había unido! >> join.dat
+
+: mensaje
+Set /p mensaje = dice:
+GOTO: enviar
+
+: enviar
+echo % username %: % de mensaje (% tiempo) >> log.dat 
+got: mensaje

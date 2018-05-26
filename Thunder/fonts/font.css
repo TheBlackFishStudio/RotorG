@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'McCainSunshinePro';
+  src: url('McCainSunshinePro.eot');
+  src: url('McCainSunshinePro.woff2') format('woff2'),
+       url('McCainSunshinePro.woff') format('woff'),
+       url('McCainSunshinePro.ttf') format('truetype'),
+       url('McCainSunshinePro.svg#McCainSunshinePro') format('svg'),
+       url('McCainSunshinePro.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

@@ -1,0 +1,164 @@
+/* STYLES CSS */
+
+@import url('https://fonts.googleapis.com/css?family=Oswald:300,400,600');
+/* GENERALES */
+
+
+body{
+    width: 100%;
+    margin: 0;
+    padding:0;
+	font-family: 'Oswald', sans-serif;
+
+    background: #fff;
+}
+.h1, h1 {
+    font-size: 34px;
+}
+
+.sinNada{
+	margin: 0;
+	padding: 0;
+}
+.blanco{
+	color: #fff;
+}
+.verde{
+	color: white;
+}
+.gris{
+	color: #727272;
+}
+.big{
+	display: block !important;
+}
+.medium{
+	display: none !important;
+}
+.small{
+	display: none !important;
+}
+.space{
+	height: 20px;
+}
+.endSpace{
+	height: 50px;
+}
+.enlinea{
+	display: inline-block;
+    vertical-align: middle;
+}
+.padd{
+	padding: 6px 6px;
+}
+.muestra{
+	display: block;
+}
+.esconde{
+	display: none;
+}
+.cursor{
+	cursor: pointer;
+}
+.textCenter{
+	text-align: center;
+}
+.adios{
+    display: none;
+}
+.guia{
+	border: solid 1px red;
+}
+/*HEADER*/
+header{
+	width: 100%;
+	position: fixed;
+	z-index: 100;
+}
+.logoback{
+	height: auto;
+	background: #fff;
+	height: 80px;
+}
+.logoCont{
+	width: 200px;
+	height: auto;
+	margin: 0 auto;
+	padding: 10px;
+}
+.menuSel{
+    width: 90%;
+    margin: 0 auto;
+    border-bottom: 1px solid #fff;
+    height: 40px;
+}
+.contList{
+	text-align: center;
+}
+ul, li{
+	list-style: none;
+	display: inline-block;
+	margin-bottom: 0;
+	padding: 0 10px;
+}
+.margList{
+	margin: 0 10px;
+}
+.borderVis{
+	border-bottom: 0px solid #fff;
+	-webkit-transition: all 0.05s ease-out; /* Safari */
+ 	transition: all 0.05s ease-out;
+}
+.borderVis:hover{
+	border-bottom: 4px solid #fff;
+}
+/*SECTiON01*/
+
+.sect01{
+	background: url('../img/02_bg.png') 0 0 no-repeat;
+	background-size: cover;
+	width:100%;
+	height: auto;
+	position: relative;
+	margin-top: 80px;
+}
+.contTextsect01{
+	text-align: center;
+	margin:250px 0 ;
+	position: relative;
+	height: 80px;
+}
+.contcuadros{
+    position: relative;
+    background: #fff;
+    padding: 10px 20px;
+    width: 80%;
+    margin: 0 auto;
+    z-index: 10;
+}
+.blocktrans01{
+    background: rgba(255,255,255,.7);
+    width: 78%;
+    height: 60px;
+    position: absolute;
+    top: 260px;
+    left: 110px;
+}
+.blocktrans02{
+	background: rgba(255,255,255,.2);
+    width: 78%;
+    height: 60px;
+    position: absolute;
+    top: 240px;
+    left: 140px;
+}
+/*--------------------------------*/
+
+
+/*----Estilos de JS----*/
+.js-borderMenu{
+  border-bottom: 3px solid #000;
+}
+.js-colorChange{
+	color: #fff;
+}
