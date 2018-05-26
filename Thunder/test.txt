@@ -1,4 +1,4 @@
--Archivo para anotar colores y SVG:
+﻿-Archivo para anotar colores y SVG:
 
 COLORES:
 
@@ -8,7 +8,8 @@ Artboard04-05:  Gris-BG: #E6E6E6
 Artboard07: Amarillo: #FFD150  Gris-BG: #E6E6E6  Tabla: Gris01: #4B4E50  Gris02: #D0D2D3
 Artboard11: Azul: #94B5DE
 Artboard12: VerdeRedes: #5DC3B5
-
+Artboard13: Gradaci�n: #3E7F78 - #5DC3B5
+Artboard16: Amarillo: #FFCA05
 
 SVG
 
