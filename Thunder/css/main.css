@@ -204,11 +204,26 @@ ul, li{
 	position: relative;
 	text-align: center;
 	padding: 20px 0;
-    margin: 0 0 60px 0;
+    margin: 70px 0 60px 0;
 }
 .bullet{
 	font-size: 20px;
 }
+.lineBlack{
+	height: 2px;
+	width: 100%;
+	background: #000;
+}
+.imgSlide{
+	background: url('../img/04_Lucio.png') 0 0 no-repeat;
+	background-size: contain;
+	width: 250px;
+	height: 250px;
+	    margin: 0 auto;
+}
+
+
+
 /*--------------------------------*/
 
 
