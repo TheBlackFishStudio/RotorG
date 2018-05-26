@@ -152,6 +152,24 @@ ul, li{
     top: 240px;
     left: 140px;
 }
+
+/*SECTiON02*/
+
+.sect02{
+	background:#E6E6E6;
+	background-size: cover;
+	width:100%;
+	height: auto;
+	position: relative;
+}
+.contTitu02{
+	background: url() 0 0 no-repeat;
+	background-size: cover;
+	height: auto;
+	position: relative;
+	text-align: center;
+	padding: 20px;
+}
 /*--------------------------------*/
 
 
